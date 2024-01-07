@@ -42,6 +42,8 @@ Bankist is a responsive and interactive portfolio website designed to highlight 
 ## Contributing
 Contributions are welcome! Feel free to open issues or pull requests to enhance the functionality or address any issues.
 
-Feel free to explore the live version of the Bankist-Portfolio [here](#https://nithesh407.github.io/bankist-portfolio/).
+Feel free to explore the live version of the Bankist-Portfolio :)
+<a href="https://nithesh407.github.io/bankist-portfolio/">Bankist-Portfolio</a>
 
-Feel free to explore the live version of the Bankist Application [here](#https://nithesh407.github.io/bankist/).
+Feel free to explore the live version of the Bankist Application :)
+<a href="https://nithesh407.github.io/bankist/">Bankist Application</a>
